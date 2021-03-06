@@ -121,3 +121,15 @@ Start tags can contain attributes:
 &lt;form&gt;, &lt;input&gt;, &lt;textarea&gt;, &lt;select&gt;, ...  Used to create forms where users can input data   
 &lt;title&gt;  Specify a title for the page, which will appear in the title bar for the browser window.  
 &lt;link&gt;   Include CSS stylesheets &lt;script&gt; Used to add Javascript to a page (can be used in body as well)  
+
+
+### Newer HTML - HTML5
+
+* Additions tags to allow content definition 
+*   &lt;article&gt;, &lt;section&gt;, &lt;header&gt;, &lt;footer&gt;, &lt;summary&gt;, &lt;aside&gt;, &lt;details&gt; 
+*  &lt;mark&gt;, &lt;figcaption&gt;, &lt;figure&gt;  
+*  &lt;nav&gt;, &lt;menuitem&gt; 
+*  Drawing  
+		*  &lt;svg&gt; - Scalable Vector Graphics - Draw shapes  
+		-  &lt;canvas&gt; - Draw from JavaScript - 3D with WebGL  
+* Timed media playback: &lt;video&gt; and &lt;audio&gt; 
