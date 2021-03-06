@@ -34,57 +34,39 @@ Some frequently used tags : &lt;h1&gt;,  &lt;i&gt;, &lt;b&gt;, &lt;a&gt; &lt;ul&
 Tags can have tags inside (nesting supported) - Document forms a tree :
 Ex -
 
-&lt;body&gt;
+```
+<body>
+    <h1> ...... <h1>
+    <p> ..... </p>
+<body>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;p&gt; ..... &lt;p&gt;
-
-&lt;/body&gt;
+```
 
 ### Example of HTML - Start with raw content text
 
 Introduction
 
-There are several good reasons for taking
+Consumption of following things is bad for health.
 
-CS142: Web Applications:
-
-You will learn a variety of interesting concepts.
-
-It may inspire you to change the way software is developed.
-
-It will give you the tools to become fabulously wealthy.
+cannabis
+cigarette
+alcohol
 
 
 ### Example of HTML - Annotate with tags
 
-&lt;h2&gt;Introduction&lt;/h2&gt;
 
-&lt;p&gt;
-
-There are several good reasons for taking
-
-&lt;i&gt;CS142: Web Applications&lt;/i&gt;:
-
-&lt;/p&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;
-
-You will learn a variety of interesting concepts.
-
-&lt;/li&gt;
-
-&lt;li&gt;
-
-It may inspire you to change the way software is developed. &lt;/li&gt;
-
-&lt;li&gt;
-
-It will give you the tools to become fabulously wealthy. &lt;/li&gt;
-
-&lt;/ul&gt;
-
+```
+<h1> Introduction <h1>
+<p>
+    Consumption of following things is bad for health.
+</p>
+<ul>
+<li>cannabis</li>
+<li>cigarette</li>
+<li>alcohol<li>
+<ul>
+```
 
  
  
