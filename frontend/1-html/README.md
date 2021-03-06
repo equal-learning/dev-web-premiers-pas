@@ -125,7 +125,7 @@ Start tags can contain attributes:
 
 ### Newer HTML - HTML5
 
-* Additions tags to allow content definition   
+* Additions tags to allow <b>content definition</b>
    &lt;article&gt;, &lt;section&gt;, &lt;header&gt;, &lt;footer&gt;, &lt;summary&gt;, &lt;aside&gt;, &lt;details&gt; 
   &lt;mark&gt;, &lt;figcaption&gt;, &lt;figure&gt;  
   &lt;nav&gt;, &lt;menuitem&gt; 
