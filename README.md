@@ -6,5 +6,8 @@
 
 
 
-Contacts :: <equal.learning.org@gmail.com>  
-We love supporting :: **[#nonToCannabis](#no)**.
+Contacts :: <equal.learning.org@gmail.com>
+
+We love supporting ::  
+1. **[#equalopportunity ](#no)**
+2. **[#nonToCannabis](#no)**
