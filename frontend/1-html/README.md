@@ -105,11 +105,19 @@ Start tags can contain attributes:
 
 ####  Common usage XHTML tags
 
-&lt;table&gt;, &lt;tr&gt;, &lt;td&gt;   Tables  
-&lt;ul&gt;, &lt;li&gt;   Unordered list (with bullets)  
-&lt;ol&gt;, &lt;li&gt;   Ordered list (numbered)  
-&lt;div&gt; Used for *grouping related elements*, where the group occupies <b>entire lines</b> (forces a line break before and after)  
-&lt;span&gt;  Used for *grouping related elements*, where the group is within a <b>single line</b> (no forced line breaks)  
-&lt;form&gt;, &lt;input&gt;, &lt;textarea&gt;, &lt;select&gt;, ...  Used to create forms where users can input data 
-
- 
+&lt;p&gt; New paragraph  
+&lt;br&gt; Force a line break within the same paragraph  
+&lt;h1&gt;, &lt;h2&gt;, ... Headings  
+&lt;b&gt;, &lt;i&gt; Boldface and italic  
+&lt;pre&gt; Typically used for code: indented with a fixed-width font, spaces are significant (e.g., newlines are *preserved*)   
+&lt;img&gt; Images  
+&lt;a href="..."&gt; Hyperlink to another Web page  
+&lt;!-- comments --&gt; Comment tags  
+&lt;table&gt;, &lt;tr&gt;, &lt;td&gt;   Tables   
+&lt;ul&gt;, &lt;li&gt;   Unordered list (with bullets)   
+&lt;ol&gt;, &lt;li&gt;   Ordered list (numbered) 
+&lt;div&gt; Used for *grouping related elements*, where the group occupies <b>entire lines</b> (forces a line break before and after)    
+&lt;span&gt;  Used for *grouping related elements*, where the group is within a <b>single line</b> (no forced line breaks)   
+&lt;form&gt;, &lt;input&gt;, &lt;textarea&gt;, &lt;select&gt;, ...  Used to create forms where users can input data   
+&lt;title&gt;  Specify a title for the page, which will appear in the title bar for the browser window.  
+&lt;link&gt;   Include CSS stylesheets &lt;script&gt; Used to add Javascript to a page (can be used in body as well)  
