@@ -1,2 +1,2 @@
 
-![essentials](fullstack1.png)
+![essentials](imgs/fullstack1.png)
