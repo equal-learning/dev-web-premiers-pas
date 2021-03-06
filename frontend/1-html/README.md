@@ -48,9 +48,9 @@ Introduction
 
 Consumption of following things is bad for health.
 
-cannabis
-cigarette
-alcohol
+cannabis  
+cigarette  
+alcohol  
 
 
 ### Example of HTML - Annotate with tags
