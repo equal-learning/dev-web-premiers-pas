@@ -68,5 +68,48 @@ alcohol
 <ul>
 ```
 
+####  HTML Evolution  
+Forked into HTML and XHTML (XML-based HTML).  
+Today <b>XHTML</b> is widely used, so we will focus on it.
+
+####  Basic Syntax rules for XHTML
+Document: hierarchical collection of elements, starting with &lt;html&gt;  
+  
+Element: start tag, contents, end tag  
+Elements may be nested  
+Every element must have an explicit start and end  
+Can use &lt;foo /&gt; as shorthand for &lt;foo&gt;&lt;/foo&gt;  
+Start tags can contain attributes:  
+
+```
+<img src="face.jpg">
+<input type="text" value="94301" name="zip">
+<div class="header">
+```
+
+####  Example XHTML document structure
+````html
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>Hello World</title>
+  </head>
+  <body>
+    <p>Hello world!</p>
+  </body>
+</html>
  
+````
+
+####  Common usage XHTML tags
+
+&lt;table&gt;, &lt;tr&gt;, &lt;td&gt;   Tables  
+&lt;ul&gt;, &lt;li&gt;   Unordered list (with bullets)  
+&lt;ol&gt;, &lt;li&gt;   Ordered list (numbered)  
+&lt;div&gt; Used for *grouping related elements*, where the group occupies <b>entire lines</b> (forces a line break before and after)  
+&lt;span&gt;  Used for *grouping related elements*, where the group is within a <b>single line</b> (no forced line breaks)  
+&lt;form&gt;, &lt;input&gt;, &lt;textarea&gt;, &lt;select&gt;, ...  Used to create forms where users can input data 
+
  
