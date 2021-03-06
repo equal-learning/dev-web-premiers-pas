@@ -17,7 +17,6 @@ Approach:
 1. Start with content to be displayed
 2. Annotate it with tags . HTML uses < > to denote tags
 
----
 #### HTML tags
 
 Tags can provide: Meaning of text:
@@ -68,6 +67,7 @@ alcohol
 <li>alcohol<li>
 <ul>
 ```
+---
 
 ####  HTML Evolution  
 Forked into HTML and XHTML (XML-based HTML).  
@@ -123,6 +123,7 @@ Start tags can contain attributes:
 &lt;title&gt;  Specify a title for the page, which will appear in the title bar for the browser window.  
 &lt;link&gt;   Include CSS stylesheets &lt;script&gt; Used to add Javascript to a page (can be used in body as well)  
 
+---
 
 ### Newer HTML - HTML5
 
