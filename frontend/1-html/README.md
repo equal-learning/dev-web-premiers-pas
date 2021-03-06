@@ -17,6 +17,7 @@ Approach:
 1. Start with content to be displayed
 2. Annotate it with tags . HTML uses < > to denote tags
 
+---
 #### HTML tags
 
 Tags can provide: Meaning of text:
