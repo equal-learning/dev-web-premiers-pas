@@ -15,7 +15,7 @@ Approach
 
 ####  HTML Evolution  
 Forked into HTML and XHTML (XML-based HTML).  
-Today <b>XHTML<b> is widely used, so we will focus on it.
+Today <b>XHTML</b> is widely used, so we will focus on it.
 
 ####  Basic Syntax rules for XHTML
 Document: hierarchical collection of elements, starting with &lt;html&gt;  
