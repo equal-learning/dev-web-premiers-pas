@@ -5,7 +5,9 @@
 Concept: 
 
 => Designed by physicist Tim Berners-Lee, in 1980
+
 => A Markup Language - Include directives with content
+
 => Directives can dictate presentation or describe content
 
 Examples: <i>italics word</i>, <title>Title words</title> Example of a declarative language
