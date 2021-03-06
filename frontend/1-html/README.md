@@ -126,10 +126,10 @@ Start tags can contain attributes:
 ### Newer HTML - HTML5
 
 * Additions tags to allow content definition 
-*   &lt;article&gt;, &lt;section&gt;, &lt;header&gt;, &lt;footer&gt;, &lt;summary&gt;, &lt;aside&gt;, &lt;details&gt; 
-*  &lt;mark&gt;, &lt;figcaption&gt;, &lt;figure&gt;  
-*  &lt;nav&gt;, &lt;menuitem&gt; 
+   &lt;article&gt;, &lt;section&gt;, &lt;header&gt;, &lt;footer&gt;, &lt;summary&gt;, &lt;aside&gt;, &lt;details&gt; 
+  &lt;mark&gt;, &lt;figcaption&gt;, &lt;figure&gt;  
+  &lt;nav&gt;, &lt;menuitem&gt; 
 *  Drawing  
-		*  &lt;svg&gt; - Scalable Vector Graphics - Draw shapes  
-		-  &lt;canvas&gt; - Draw from JavaScript - 3D with WebGL  
+&nbsp;&nbsp; -  &lt;svg&gt;  Scalable Vector Graphics - Draw shapes  
+&nbsp;&nbsp; -  &lt;canvas&gt; - Draw from JavaScript - 3D with WebGL  
 * Timed media playback: &lt;video&gt; and &lt;audio&gt; 
