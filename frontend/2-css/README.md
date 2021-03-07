@@ -20,5 +20,10 @@ Use an element attribute named class to link (e.g. &lt;span class="test"&gt;)
 Result: define style information once, use in many places 
 Consider can you make all the text in the app slightly bigger? Or purple is our new company color.  
 <b>DRY principle: Don't Repeat Yourself</b>
+
+###  Style sheet contain one or more CSS Rules  
+
+![cssrules](imgs/cssrules.png)
+
  
  
