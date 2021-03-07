@@ -19,6 +19,6 @@ Specify style to use rather than browser default Not have to code styling on eve
 Use an element attribute named class to link (e.g. &lt;span class="test"&gt;) 
 Result: define style information once, use in many places 
 Consider can you make all the text in the app slightly bigger? Or purple is our new company color.  
-DRY principle: Don't Repeat Yourself
+<b>DRY principle: Don't Repeat Yourself</b>
  
  
