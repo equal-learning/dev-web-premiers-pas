@@ -1,7 +1,7 @@
 
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cascading Style Sheet    
-###Driving problem behind CSS
-What font type and size does <h1>Introduction</h1> generate?  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cascading Style Sheet    
+### Driving problem behind CSS
+What font type and size does &lt;h1&gt;Introduction&lt;/h1&gt; generate?  
 Answer: Some default from the browser (HTML tells what browser how)
 
 Early HTML - Override defaults with attributes
