@@ -23,7 +23,6 @@ Consider can you make all the text in the app slightly bigger? Or purple is our 
 
 ###  Style sheet contain one or more CSS Rules  
 
-![cssrules](imgs/cssrules.png)
-
+![cssrules](../imgs/cssrules.png)
  
  
