@@ -136,3 +136,7 @@ Start tags can contain attributes:
 &nbsp;&nbsp; -  &lt;canvas&gt; - Draw from JavaScript - 3D with WebGL   
 
 * Timed media playback: &lt;video&gt; and &lt;audio&gt; 
+
+Reference ::
+[1]. [W3Schools](https://www.w3schools.com/html/default.asp)
+[2]. [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
