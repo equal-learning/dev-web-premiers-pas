@@ -24,5 +24,21 @@ Consider can you make all the text in the app slightly bigger? Or purple is our 
 ###  Style sheet contain one or more CSS Rules  
 
 ![cssselector](../../imgs/cssselector.png)
- 
- 
+
+### CSS properties  
+
+Controls many style properties of a html element like :
+- color
+- size
+- positioning
+- visibility
+- ....
+
+Ex -
+
+   h1 { color:red; backgroud-color:yellow; }
+
+###  CSS Box model  
+
+![cssboxmodel](../../imgs/cssboxmodel.png)
+
