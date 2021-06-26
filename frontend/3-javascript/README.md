@@ -4,9 +4,9 @@ By the end of this session we should be able to perform following tasks:
 2. Design the location (and some additional) information of a web resource using URL
 
 The core language features are presented in the following documents:
-1. JavaScriptBasics
-2. JavaScriptNewFeatures
-3. JavaScriptProgramming
+1. JavaScriptBasics.pdf
+2. JavaScriptNewFeatures.pdf
+3. JavaScriptProgramming.pdf
 
 For better appreciation of various features following are the supporting tutorials :
 
