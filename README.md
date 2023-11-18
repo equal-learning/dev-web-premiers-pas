@@ -4,10 +4,10 @@
 
 Easy steps to create modern reactive websites for all businesses :
 
-Step 1. Learn **[TypeScript](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/)  
-Step 2. Learn **[Reactjs](https://react.dev/learn)  
-Step 3. Learn **[HTML](https://github.com/equal-learning/dev-web-premiers-pas/blob/main/frontend/1-html/README.md)  
-Step 4. Learn **[CSS](https://github.com/equal-learning/dev-web-premiers-pas/blob/main/frontend/2-css/README.md)  
+Step 1. Learn **[TypeScript](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/)** 
+Step 2. Learn **[Reactjs](https://react.dev/learn)** 
+Step 3. Learn **[HTML](https://github.com/equal-learning/dev-web-premiers-pas/blob/main/frontend/1-html/README.md)**  
+Step 4. Learn **[CSS](https://github.com/equal-learning/dev-web-premiers-pas/blob/main/frontend/2-css/README.md)** 
 
 
 
